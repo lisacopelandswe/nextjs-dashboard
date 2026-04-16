@@ -1,5 +1,17 @@
-## Next.js App Router Course - Starter
+# Acme Company Financial Dashboard 
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## Tech Stack
+- Next.js
+- TypeScript
+- Tailwind
+- pnpm
+- Neon
+- Vercel
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Demo
+[View Demo](https://nextjs-dashboard-eight-hazel-35.vercel.app/)
+
+## Screenshot
+![screenshot](public/dashboard.jpg)
+
+[SOURCE](https://nextjs.org/learn)
